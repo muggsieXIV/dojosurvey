@@ -1,0 +1,18 @@
+@charset "UTF-8";
+*{ 
+	display: inline-block;
+	padding: 5px;
+}
+
+.container{
+	justify-content: center;
+	text-align: center;
+}
+
+input{
+	margin-bottom: 5px;
+}
+
+select{
+	margin-bottom: 5px;
+}
